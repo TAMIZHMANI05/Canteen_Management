@@ -21,5 +21,3 @@ A **Java-based console application** for managing a college canteen. This system
 - **Interface**: Console (CLI)
 
 ---
-
-## 📂 Project Structure
